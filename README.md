@@ -8,4 +8,16 @@ The student can register,login, can see books he had taken and can search for bo
 
 ![Librarian Home page](https://user-images.githubusercontent.com/59232140/98630768-e19de580-2341-11eb-982e-66bafe901bed.png)
 
+![Librarian add books](https://user-images.githubusercontent.com/59232140/98630870-190c9200-2342-11eb-9b6d-ad8a970eb3dc.png)
+
+![Librarian display books](https://user-images.githubusercontent.com/59232140/98631021-756fb180-2342-11eb-8f69-f01df141ef70.png)
+
+![Librarian issue books](https://user-images.githubusercontent.com/59232140/98631056-8cae9f00-2342-11eb-86c5-7dc77fb63478.png)
+
+![Librarian return books](https://user-images.githubusercontent.com/59232140/98631103-a4862300-2342-11eb-99c2-4528429d4bb9.png)
+
+![Librarian books info](https://user-images.githubusercontent.com/59232140/98631305-224a2e80-2343-11eb-9d54-303f16720099.png)
+
+![Librarian Message to student](https://user-images.githubusercontent.com/59232140/98631327-30984a80-2343-11eb-9ebd-cc11a1561350.png)
+
 
