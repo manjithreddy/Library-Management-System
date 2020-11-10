@@ -2,7 +2,6 @@ Library Management System is a web application for the university library manage
 
 The librarian can login and his portal contains information regarding All Students Info, he can add books, he can get info regarding all books in library and he can issue books and can get back books returned by students and finally he can send message to student.
 
-The student can register,login, can see books he had taken and can search for books available in the library.
 
 ![Librarian login](https://user-images.githubusercontent.com/59232140/98623678-3df90900-2332-11eb-98c1-bd0f54236914.png)
 
@@ -19,5 +18,15 @@ The student can register,login, can see books he had taken and can search for bo
 ![Librarian books info](https://user-images.githubusercontent.com/59232140/98631305-224a2e80-2343-11eb-9d54-303f16720099.png)
 
 ![Librarian Message to student](https://user-images.githubusercontent.com/59232140/98631327-30984a80-2343-11eb-9ebd-cc11a1561350.png)
+
+The student can register,login, can see books he had taken and can search for books available in the library.
+
+![Student registration](https://user-images.githubusercontent.com/59232140/98631399-5b829e80-2343-11eb-81b1-1a55e7b33473.png)
+
+![Student login](https://user-images.githubusercontent.com/59232140/98631424-69d0ba80-2343-11eb-87a7-bfeea301baa6.png)
+
+![Student issued books](https://user-images.githubusercontent.com/59232140/98631463-83720200-2343-11eb-8e5b-9791a21bb189.png)
+
+![Student display books](https://user-images.githubusercontent.com/59232140/98631498-91278780-2343-11eb-9d33-a5aaa3170df3.png)
 
 
