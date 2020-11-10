@@ -4,4 +4,4 @@ The librarian can login and his portal contains information regarding All Studen
 
 The student can register,login, can see books he had taken and can search for books available in the library.
 
-<img src="https://github.com/manjithreddy/Library-Management-System/blob/main/Librarian%20login.png" width="200" height="400" />
+
