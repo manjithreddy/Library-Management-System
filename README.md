@@ -1,6 +1,6 @@
-#Library Management System is a web application for the university library management system using HTML, CSS for the frontend, SQL for backend and PHP for server.
+**Library Management System is a web application for the university library management system using HTML, CSS for the frontend, SQL for backend and PHP for server.**
 
-#The librarian can login and his portal contains information regarding All Students Info, he can add books, he can get info regarding all books in library and he can issue books and can get back books returned by students and finally he can send message to student.
+**The librarian can login and his portal contains information regarding All Students Info, he can add books, he can get info regarding all books in library and he can issue books and can get back books returned by students and finally he can send message to student.**
 
 
 ![Librarian login](https://user-images.githubusercontent.com/59232140/98623678-3df90900-2332-11eb-98c1-bd0f54236914.png)
@@ -19,7 +19,7 @@
 
 ![Librarian Message to student](https://user-images.githubusercontent.com/59232140/98631327-30984a80-2343-11eb-9ebd-cc11a1561350.png)
 
-#The student can register,login, can see books he had taken and can search for books available in the library.
+**The student can register,login, can see books he had taken and can search for books available in the library.**
 
 ![Student registration](https://user-images.githubusercontent.com/59232140/98631399-5b829e80-2343-11eb-81b1-1a55e7b33473.png)
 
